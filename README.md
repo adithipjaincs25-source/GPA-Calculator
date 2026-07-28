@@ -6,8 +6,7 @@ A simple, user-friendly web application designed for students of *B.M.S. College
 
 ## 🌐 Live Demo
 Check out the live website here:  
-👉 [GPA Calculator Web App](https://adithiajaincs25-source.github.io/GPA-Calculator/)
-
+👉 https://adithipjaincs25-source.github.io/GPA-Calculator/
 ---
 
 ## ✨ Features
