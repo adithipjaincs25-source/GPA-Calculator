@@ -1,38 +1,24 @@
-[script.js](https://github.com/user-attachments/files/30463112/script.js)
-[index.html](https://github.com/user-attachments/files/30463066/index.html)
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>SGPA & CGPA Calculator</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
+# GPA & CGPA Calculator
 
-<div class="container">
-    <!-- College Logo -->
-    <img src="logo.png" class="logo" alt="College Logo">
+A simple, user-friendly web application designed for students of *B.M.S. College of Engineering* to easily calculate their SGPA and CGPA.
 
-    <!-- Project Title -->
-    <h1>SGPA & CGPA Calculator</h1>
+---
 
-    <!-- College Name -->
-    <h3 class="college-name">
-        B.M.S COLLEGE OF ENGINEERING
-    </h3>
+## 🌐 Live Demo
+Check out the live website here:  
+👉 [GPA Calculator Web App](https://adithiajaincs25-source.github.io/GPA-Calculator/)
 
-    <!-- Add Semester Button -->
-    <button onclick="addSemester()">Add Semester</button>
-[style.css](https://github.com/user-attachments/files/30463116/style.css)
-    <!-- Semester Containers -->
-    <div id="semesters"></div><img width="336" height="264" alt="logo" src="https://github.com/user-attachments/assets/7096e4d7-80d4-42b0-bbac-983187cdad9d" />
+---
 
-    <!-- CGPA Result -->
-    <h2 id="cgpaResult"></h2>
-</div>
+## ✨ Features
+* Calculate SGPA for individual semesters.
+* Calculate overall CGPA.
+* Add or remove semester fields dynamically.
+* Tailored for B.M.S. College of Engineering grading schemes.
 
-<!-- JavaScript -->
-<script src="script.js"></script>
+---
 
-</body>
-</html>
+## 🛠️ Built With
+* *HTML5* - Structure
+* *CSS3* - Styling & Layout
+* *JavaScript* - Calculation Logic
