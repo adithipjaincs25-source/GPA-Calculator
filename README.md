@@ -1,3 +1,4 @@
+[script.js](https://github.com/user-attachments/files/30463112/script.js)
 [index.html](https://github.com/user-attachments/files/30463066/index.html)
 <!DOCTYPE html>
 <html lang="en">
@@ -22,9 +23,9 @@
 
     <!-- Add Semester Button -->
     <button onclick="addSemester()">Add Semester</button>
-
+[style.css](https://github.com/user-attachments/files/30463116/style.css)
     <!-- Semester Containers -->
-    <div id="semesters"></div>
+    <div id="semesters"></div><img width="336" height="264" alt="logo" src="https://github.com/user-attachments/assets/7096e4d7-80d4-42b0-bbac-983187cdad9d" />
 
     <!-- CGPA Result -->
     <h2 id="cgpaResult"></h2>
